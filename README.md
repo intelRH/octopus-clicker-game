@@ -16,6 +16,7 @@ Since this is a lightweight frontend website, you don't need to install anything
 1. **Download or Clone** this repository to your computer.
 2. Open the project folder in a code editor like **VS Code**.
 3. Use an extension like **Live Server** to run it locally
+4. Or just open the `index` file and you're good to go!
 
 ## Asset Credits
 All character sprites and box animations were custom-drawn pixel art assets created specifically for this project.
