@@ -1,0 +1,11 @@
+/* 1. Target the entire page body */
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;       /* Tells the body to take up 100% of the screen height */
+    display: flex;       /* Turns the layout into a flexible box system */
+    justify-content: center; /* Snaps your canvas perfectly to the horizontal center */
+    align-items: center;     /* Snaps your canvas perfectly to the vertical center */
+    background-color: #AEC6CF; 
+    overflow: hidden;    /* Disables random, ugly scrollbars from popping up */
+}
